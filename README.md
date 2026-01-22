@@ -90,8 +90,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=deepakmaharana278&style=flat&color=blue"/>
   <img src="https://img.shields.io/github/followers/deepakmaharana278?style=flat"/>
-</p> -->
-
+</p> 
