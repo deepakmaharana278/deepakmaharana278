@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hey, I'm Deepak</h2>
+<h2 align="center">👋 Hi, I'm Deepak</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00C4CC&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Python+%26+Django+Developer;Frontend+with+React+%26+Tailwind;Turning+Ideas+Into+Code" />
