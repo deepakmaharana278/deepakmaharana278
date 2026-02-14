@@ -76,16 +76,38 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white"/>
 </p>
 
+
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=deepakmaharana278&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=deepakmaharana278&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakmaharana278&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
+<img src="https://streak-stats.demolab.com?user=deepakmaharana278&theme=tokyonight&hide_border=true" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deepakmaharana278&theme=tokyonight" width="380"/>
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepakmaharana278&theme=tokyonight" width="380"/>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deepakmaharana278&theme=tokyonight" width="380"/>
+    </td>
+    <td>
+      <img src="https://github-contributor-stats.vercel.app/api?username=deepakmaharana278&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="380"/>
+    </td>
+  </tr>
+</table>
+
+
 
 # 📈 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepakmaharana278&theme=github-compact)
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepakmaharana278&theme=tokyonight" />
+</p>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
