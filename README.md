@@ -80,7 +80,7 @@
 ---
 
 # 📊 GitHub Stats:
-<img src="https://streak-stats.demolab.com?user=deepakmaharana278&theme=tokyonight&hide_border=true" />
+![](https://streak-stats.demolab.com?user=deepakmaharana278&theme=tokyonight&hide_border=true&cache_seconds=86400)
 <table>
   <tr>
     <td>
