@@ -79,6 +79,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<h2 align="center">📈 <i>github.stats()</i> 📈</h2>
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=deepakmaharana278&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true&count_private=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakmaharana278&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=FFFFFF" />
